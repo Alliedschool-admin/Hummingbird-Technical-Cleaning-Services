@@ -30,8 +30,8 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
+        title={'Top Drain Cleaning and Plumbing Service Provider UAE'}
+        subtitle={'We Are The Best in Terms of Coustomers Satisfaction'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
